@@ -1,0 +1,1402 @@
+{
+  ".claude-plugin/marketplace.json": {
+    "mtime": 1781284195.0889626,
+    "ast_hash": "8645123ce2a5710715211810dd95f993",
+    "semantic_hash": "8645123ce2a5710715211810dd95f993"
+  },
+  ".claude-plugin/plugin.json": {
+    "mtime": 1781946416.2191744,
+    "ast_hash": "0314aeb6918c9ad6eb908f339cf1a9ee",
+    "semantic_hash": "0314aeb6918c9ad6eb908f339cf1a9ee"
+  },
+  ".copilot-plugin/plugin.json": {
+    "mtime": 1781946416.2191744,
+    "ast_hash": "5ab51ab9368e43d011fcb7e6b31c6cb4",
+    "semantic_hash": "5ab51ab9368e43d011fcb7e6b31c6cb4"
+  },
+  ".cursor-plugin/plugin.json": {
+    "mtime": 1781946416.2201743,
+    "ast_hash": "04428461fc0f5814f05fd8d62de5cea3",
+    "semantic_hash": "04428461fc0f5814f05fd8d62de5cea3"
+  },
+  "eslint.config.mjs": {
+    "mtime": 1779780819.6750667,
+    "ast_hash": "0606dd6e5dad311781e800c660fb0f46",
+    "semantic_hash": "0606dd6e5dad311781e800c660fb0f46"
+  },
+  "homepage/.vscode/extensions.json": {
+    "mtime": 1779780819.6750667,
+    "ast_hash": "3adedb22d082dbd1ebb00b75d21403aa",
+    "semantic_hash": "3adedb22d082dbd1ebb00b75d21403aa"
+  },
+  "homepage/.vscode/launch.json": {
+    "mtime": 1779780819.6750667,
+    "ast_hash": "60493763dcbc2d109e57da86d997602a",
+    "semantic_hash": "60493763dcbc2d109e57da86d997602a"
+  },
+  "homepage/astro.config.mjs": {
+    "mtime": 1779780819.6760666,
+    "ast_hash": "a7b11c9095e68ff6d86822b5bcad6cc3",
+    "semantic_hash": "a7b11c9095e68ff6d86822b5bcad6cc3"
+  },
+  "homepage/package.json": {
+    "mtime": 1779780819.6760666,
+    "ast_hash": "6e709908fc3b0d5e2f00df72a8804f32",
+    "semantic_hash": "6e709908fc3b0d5e2f00df72a8804f32"
+  },
+  "homepage/src/components/CommunityVideo.astro": {
+    "mtime": 1783009203.1492627,
+    "ast_hash": "0af93334eb01c9b9fa6104092cb2966f",
+    "semantic_hash": "0af93334eb01c9b9fa6104092cb2966f"
+  },
+  "homepage/src/components/Features.astro": {
+    "mtime": 1783009203.1492627,
+    "ast_hash": "ea911aa55f362920a10c3520e32442fe",
+    "semantic_hash": "ea911aa55f362920a10c3520e32442fe"
+  },
+  "homepage/src/components/Footer.astro": {
+    "mtime": 1781284195.149962,
+    "ast_hash": "742f1e2ae9bd1f2a0b46d17577b37abc",
+    "semantic_hash": "742f1e2ae9bd1f2a0b46d17577b37abc"
+  },
+  "homepage/src/components/Hero.astro": {
+    "mtime": 1783009203.1542625,
+    "ast_hash": "7789866826547a902c8b168395224f9a",
+    "semantic_hash": "7789866826547a902c8b168395224f9a"
+  },
+  "homepage/src/components/Install.astro": {
+    "mtime": 1783009203.1552625,
+    "ast_hash": "6c803ba662a91f3598d16c83f5fe9d0a",
+    "semantic_hash": "6c803ba662a91f3598d16c83f5fe9d0a"
+  },
+  "homepage/src/components/Nav.astro": {
+    "mtime": 1783009203.1552625,
+    "ast_hash": "0d52b4713264d13f0c9ecda8b2889af5",
+    "semantic_hash": "0d52b4713264d13f0c9ecda8b2889af5"
+  },
+  "homepage/src/components/Problem.astro": {
+    "mtime": 1783009203.1552625,
+    "ast_hash": "6621e2fc6499059b72fa642e10c8ed87",
+    "semantic_hash": "6621e2fc6499059b72fa642e10c8ed87"
+  },
+  "homepage/src/components/Showcase.astro": {
+    "mtime": 1783009203.1552625,
+    "ast_hash": "4c4dc0fd02868a2aa774928356d1783d",
+    "semantic_hash": "4c4dc0fd02868a2aa774928356d1783d"
+  },
+  "homepage/src/layouts/Layout.astro": {
+    "mtime": 1783009203.1552625,
+    "ast_hash": "e4ef5e543e268d0a46843864b9f6d47d",
+    "semantic_hash": "e4ef5e543e268d0a46843864b9f6d47d"
+  },
+  "homepage/src/pages/index.astro": {
+    "mtime": 1779780819.789066,
+    "ast_hash": "d9fc06216dfd8f196a2a653129b6ee41",
+    "semantic_hash": "d9fc06216dfd8f196a2a653129b6ee41"
+  },
+  "homepage/tsconfig.json": {
+    "mtime": 1779780819.789066,
+    "ast_hash": "1d3613ac08bdda17e2b82251613dbc21",
+    "semantic_hash": "1d3613ac08bdda17e2b82251613dbc21"
+  },
+  "install.ps1": {
+    "mtime": 1781946416.2221744,
+    "ast_hash": "1e21c9d01006caf531a550b074cf2015",
+    "semantic_hash": "1e21c9d01006caf531a550b074cf2015"
+  },
+  "install.sh": {
+    "mtime": 1781946416.2221744,
+    "ast_hash": "f53ff6de0af799bbd93e556b016c315d",
+    "semantic_hash": "f53ff6de0af799bbd93e556b016c315d"
+  },
+  "package.json": {
+    "mtime": 1781284195.1509619,
+    "ast_hash": "d63bdf8f3152e8105130e5cb7e961700",
+    "semantic_hash": "d63bdf8f3152e8105130e5cb7e961700"
+  },
+  "scripts/generate-large-graph.mjs": {
+    "mtime": 1779780819.792066,
+    "ast_hash": "22da331e99723e57d88b0885dbc8345b",
+    "semantic_hash": "22da331e99723e57d88b0885dbc8345b"
+  },
+  "tests/skill/understand/fixtures/scan-result-3-cliques.json": {
+    "mtime": 1779780819.792066,
+    "ast_hash": "2aaeefd9562da748542c7586ef48286c",
+    "semantic_hash": "2aaeefd9562da748542c7586ef48286c"
+  },
+  "tests/skill/understand/fixtures/scan-result-large-community.json": {
+    "mtime": 1779780819.793066,
+    "ast_hash": "8644b5f4190df74c14e0e83164496d98",
+    "semantic_hash": "8644b5f4190df74c14e0e83164496d98"
+  },
+  "tests/skill/understand/fixtures/scan-result-merge-respects-non-mergeable.json": {
+    "mtime": 1779780819.793066,
+    "ast_hash": "20cd5b0ca0a2670eb65e31d87c2d813a",
+    "semantic_hash": "20cd5b0ca0a2670eb65e31d87c2d813a"
+  },
+  "tests/skill/understand/fixtures/scan-result-non-code.json": {
+    "mtime": 1779780819.793066,
+    "ast_hash": "71cdd2bcdcc2e261d378b215212b2442",
+    "semantic_hash": "71cdd2bcdcc2e261d378b215212b2442"
+  },
+  "tests/skill/understand/fixtures/scan-result-singletons.json": {
+    "mtime": 1779780819.793066,
+    "ast_hash": "c86be70b95fe41626bcdd17882010af5",
+    "semantic_hash": "c86be70b95fe41626bcdd17882010af5"
+  },
+  "tests/skill/understand/test_compute_batches.test.mjs": {
+    "mtime": 1779780819.793066,
+    "ast_hash": "db21b7fba1ff273537d007d254561af6",
+    "semantic_hash": "db21b7fba1ff273537d007d254561af6"
+  },
+  "tests/skill/understand/test_extract_import_map.test.mjs": {
+    "mtime": 1781284195.1549618,
+    "ast_hash": "61b9d60e795bef6828e841573e892e6e",
+    "semantic_hash": "61b9d60e795bef6828e841573e892e6e"
+  },
+  "tests/skill/understand/test_merge_batch_graphs.py": {
+    "mtime": 1779780819.7940662,
+    "ast_hash": "e90f70fcf05c304bced04e7c1268325b",
+    "semantic_hash": "e90f70fcf05c304bced04e7c1268325b"
+  },
+  "tests/skill/understand/test_scan_project.test.mjs": {
+    "mtime": 1779780819.7940662,
+    "ast_hash": "1519493671c07f7e880c4a249c3576b4",
+    "semantic_hash": "1519493671c07f7e880c4a249c3576b4"
+  },
+  "tsconfig.json": {
+    "mtime": 1779780819.7940662,
+    "ast_hash": "b91b84dd2ab0b20312877edc7d3f57d1",
+    "semantic_hash": "b91b84dd2ab0b20312877edc7d3f57d1"
+  },
+  "understand-anything-plugin/.claude-plugin/plugin.json": {
+    "mtime": 1781946416.2231743,
+    "ast_hash": "0314aeb6918c9ad6eb908f339cf1a9ee",
+    "semantic_hash": "0314aeb6918c9ad6eb908f339cf1a9ee"
+  },
+  "understand-anything-plugin/hooks/hooks.json": {
+    "mtime": 1779780819.796066,
+    "ast_hash": "49f9fe6108e97afe44d5ba096245f71f",
+    "semantic_hash": "49f9fe6108e97afe44d5ba096245f71f"
+  },
+  "understand-anything-plugin/package.json": {
+    "mtime": 1781946416.2231743,
+    "ast_hash": "95c20d15c0f214d173e059f2b0b4ca48",
+    "semantic_hash": "95c20d15c0f214d173e059f2b0b4ca48"
+  },
+  "understand-anything-plugin/packages/core/package.json": {
+    "mtime": 1781946416.2241743,
+    "ast_hash": "9c6954b21fb7486fb25b165f45b6dfc4",
+    "semantic_hash": "9c6954b21fb7486fb25b165f45b6dfc4"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/change-classifier.test.ts": {
+    "mtime": 1779780819.797066,
+    "ast_hash": "f7c29d5f21a9046ddf38281ed54fa481",
+    "semantic_hash": "f7c29d5f21a9046ddf38281ed54fa481"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/domain-normalize.test.ts": {
+    "mtime": 1779780819.797066,
+    "ast_hash": "432c0d25c9c88920975e09d3069c0bd5",
+    "semantic_hash": "432c0d25c9c88920975e09d3069c0bd5"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/domain-persistence.test.ts": {
+    "mtime": 1779780819.797066,
+    "ast_hash": "8a9a1d49b4a00646e0d34623157a741b",
+    "semantic_hash": "8a9a1d49b4a00646e0d34623157a741b"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/domain-types.test.ts": {
+    "mtime": 1779780819.797066,
+    "ast_hash": "b8cd3e2df219768c1175cf6337442672",
+    "semantic_hash": "b8cd3e2df219768c1175cf6337442672"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/embedding-search.test.ts": {
+    "mtime": 1779780819.797066,
+    "ast_hash": "9841e6c01eef0f8a3e75f5fe46076288",
+    "semantic_hash": "9841e6c01eef0f8a3e75f5fe46076288"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/fingerprint.test.ts": {
+    "mtime": 1779780819.797066,
+    "ast_hash": "67f245ffa7014d81fd55d236fb3460fe",
+    "semantic_hash": "67f245ffa7014d81fd55d236fb3460fe"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/framework-registry.test.ts": {
+    "mtime": 1779780819.797066,
+    "ast_hash": "242abcb3498bc6b51b5337646b87d43c",
+    "semantic_hash": "242abcb3498bc6b51b5337646b87d43c"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/ignore-filter.test.ts": {
+    "mtime": 1779780819.797066,
+    "ast_hash": "6acce088a2dcc5f1d5cea99daaccc5e6",
+    "semantic_hash": "6acce088a2dcc5f1d5cea99daaccc5e6"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/ignore-generator.test.ts": {
+    "mtime": 1781946416.2241743,
+    "ast_hash": "0567744956c5ecd5e2ae861ce5ca787f",
+    "semantic_hash": "0567744956c5ecd5e2ae861ce5ca787f"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/language-lesson.test.ts": {
+    "mtime": 1779780819.797066,
+    "ast_hash": "2b15e819fd3a6444f5bc633bedb1f903",
+    "semantic_hash": "2b15e819fd3a6444f5bc633bedb1f903"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/language-registry.test.ts": {
+    "mtime": 1781946416.2241743,
+    "ast_hash": "c6a3be6659550523cb78b9eba0612b86",
+    "semantic_hash": "c6a3be6659550523cb78b9eba0612b86"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/layer-detector.test.ts": {
+    "mtime": 1779780819.7980661,
+    "ast_hash": "d5ab910c87fc50b95b55e4dbab5e89f4",
+    "semantic_hash": "d5ab910c87fc50b95b55e4dbab5e89f4"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/normalize-graph.test.ts": {
+    "mtime": 1779780819.7980661,
+    "ast_hash": "c99106b6632103040879f74b8be7cdb7",
+    "semantic_hash": "c99106b6632103040879f74b8be7cdb7"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/parsers.test.ts": {
+    "mtime": 1779780819.7980661,
+    "ast_hash": "c8cf7fd57b1fa85ad8d2de39ea6a32d7",
+    "semantic_hash": "c8cf7fd57b1fa85ad8d2de39ea6a32d7"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/plugin-discovery.test.ts": {
+    "mtime": 1779780819.7980661,
+    "ast_hash": "798e11fd527cfbb41596d42436319c2d",
+    "semantic_hash": "798e11fd527cfbb41596d42436319c2d"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/plugin-registry.test.ts": {
+    "mtime": 1779780819.7980661,
+    "ast_hash": "30a9a693de4fa8ca273245782f616aac",
+    "semantic_hash": "30a9a693de4fa8ca273245782f616aac"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/schema.test.ts": {
+    "mtime": 1779780819.7980661,
+    "ast_hash": "6ed19107e6e9027900c3ad0e2f53d78c",
+    "semantic_hash": "6ed19107e6e9027900c3ad0e2f53d78c"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/search.test.ts": {
+    "mtime": 1779780819.7980661,
+    "ast_hash": "ce01122a313da0f9f6a29e58c74bddaf",
+    "semantic_hash": "ce01122a313da0f9f6a29e58c74bddaf"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/staleness.test.ts": {
+    "mtime": 1779780819.799066,
+    "ast_hash": "7bef80ba2c589a3465e9ba83ca339d9b",
+    "semantic_hash": "7bef80ba2c589a3465e9ba83ca339d9b"
+  },
+  "understand-anything-plugin/packages/core/src/__tests__/tour-generator.test.ts": {
+    "mtime": 1779780819.799066,
+    "ast_hash": "25ad59ff8bd70fab215932de483e6ed5",
+    "semantic_hash": "25ad59ff8bd70fab215932de483e6ed5"
+  },
+  "understand-anything-plugin/packages/core/src/analyzer/graph-builder.test.ts": {
+    "mtime": 1779780819.799066,
+    "ast_hash": "21939f879506dd7cf23a3a66f9e069fb",
+    "semantic_hash": "21939f879506dd7cf23a3a66f9e069fb"
+  },
+  "understand-anything-plugin/packages/core/src/analyzer/graph-builder.ts": {
+    "mtime": 1779780819.799066,
+    "ast_hash": "28b5bf087e67e224fd5bd92ed8471c44",
+    "semantic_hash": "28b5bf087e67e224fd5bd92ed8471c44"
+  },
+  "understand-anything-plugin/packages/core/src/analyzer/language-lesson.ts": {
+    "mtime": 1779780819.799066,
+    "ast_hash": "590fdbc63596bcbde0a55854f371f852",
+    "semantic_hash": "590fdbc63596bcbde0a55854f371f852"
+  },
+  "understand-anything-plugin/packages/core/src/analyzer/layer-detector.ts": {
+    "mtime": 1779780819.799066,
+    "ast_hash": "9ae75ccf502179189ed2429e072e6cb8",
+    "semantic_hash": "9ae75ccf502179189ed2429e072e6cb8"
+  },
+  "understand-anything-plugin/packages/core/src/analyzer/llm-analyzer.test.ts": {
+    "mtime": 1779780819.799066,
+    "ast_hash": "0311bfc9328667313fe0786d7bfa89ab",
+    "semantic_hash": "0311bfc9328667313fe0786d7bfa89ab"
+  },
+  "understand-anything-plugin/packages/core/src/analyzer/llm-analyzer.ts": {
+    "mtime": 1779780819.799066,
+    "ast_hash": "9321215ac0fd2c3a18cade89afe3b20f",
+    "semantic_hash": "9321215ac0fd2c3a18cade89afe3b20f"
+  },
+  "understand-anything-plugin/packages/core/src/analyzer/normalize-graph.ts": {
+    "mtime": 1779780819.799066,
+    "ast_hash": "15546f5e40abe0bdf8fc463f8d3e6538",
+    "semantic_hash": "15546f5e40abe0bdf8fc463f8d3e6538"
+  },
+  "understand-anything-plugin/packages/core/src/analyzer/tour-generator.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "c71b3452d7122c63c77adaecb07fa530",
+    "semantic_hash": "c71b3452d7122c63c77adaecb07fa530"
+  },
+  "understand-anything-plugin/packages/core/src/change-classifier.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "badc0c44246e99045549e1ae3850250a",
+    "semantic_hash": "badc0c44246e99045549e1ae3850250a"
+  },
+  "understand-anything-plugin/packages/core/src/embedding-search.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "5ead5e1c1507685b71be8e56ca02787d",
+    "semantic_hash": "5ead5e1c1507685b71be8e56ca02787d"
+  },
+  "understand-anything-plugin/packages/core/src/fingerprint.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "810672842c71a9d71c10dcdf844d66ae",
+    "semantic_hash": "810672842c71a9d71c10dcdf844d66ae"
+  },
+  "understand-anything-plugin/packages/core/src/ignore-filter.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "eb577b2f4da4993f4a08f1b3fee4d670",
+    "semantic_hash": "eb577b2f4da4993f4a08f1b3fee4d670"
+  },
+  "understand-anything-plugin/packages/core/src/ignore-generator.ts": {
+    "mtime": 1781946416.2241743,
+    "ast_hash": "22f7e34c38027492b599f609009a46d1",
+    "semantic_hash": "22f7e34c38027492b599f609009a46d1"
+  },
+  "understand-anything-plugin/packages/core/src/index.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "c2de929d955bbedd44073e29a5a9fa18",
+    "semantic_hash": "c2de929d955bbedd44073e29a5a9fa18"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/batch.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "f4191e3cbbdccf67ba37678a5cacb0cc",
+    "semantic_hash": "f4191e3cbbdccf67ba37678a5cacb0cc"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/c.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "34cabe1d195c7efc56c840dec8afeb28",
+    "semantic_hash": "34cabe1d195c7efc56c840dec8afeb28"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/cpp.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "918048c12c3f1c158f36916c40b0fa3a",
+    "semantic_hash": "918048c12c3f1c158f36916c40b0fa3a"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/csharp.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "215db928953084328e7bbe5c24291c38",
+    "semantic_hash": "215db928953084328e7bbe5c24291c38"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/css.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "f5fd601310f225950aa85a298c535b0b",
+    "semantic_hash": "f5fd601310f225950aa85a298c535b0b"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/csv.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "876154ec6a536be752949e122c4bcf6d",
+    "semantic_hash": "876154ec6a536be752949e122c4bcf6d"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/dart.ts": {
+    "mtime": 1781946416.2241743,
+    "ast_hash": "cadcfe95f088d28c06bc53ce71179643",
+    "semantic_hash": "cadcfe95f088d28c06bc53ce71179643"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/docker-compose.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "e45f3de209b1c74a971348448528551b",
+    "semantic_hash": "e45f3de209b1c74a971348448528551b"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/dockerfile.ts": {
+    "mtime": 1779780819.800066,
+    "ast_hash": "9f58cebe9994cd8174dbc4b59f683838",
+    "semantic_hash": "9f58cebe9994cd8174dbc4b59f683838"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/env.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "d78de64ca4b5bde287c794443510509d",
+    "semantic_hash": "d78de64ca4b5bde287c794443510509d"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/github-actions.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "e3b1f6c4875d08c9c1c7bf7524308d1c",
+    "semantic_hash": "e3b1f6c4875d08c9c1c7bf7524308d1c"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/go.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "573d8e94c1cd035e098208c68e93aae9",
+    "semantic_hash": "573d8e94c1cd035e098208c68e93aae9"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/graphql.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "115a4bea11f479cdf4b2576fa3c1f5aa",
+    "semantic_hash": "115a4bea11f479cdf4b2576fa3c1f5aa"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/html.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "ca6eb062268669edc5c227dafa33da8c",
+    "semantic_hash": "ca6eb062268669edc5c227dafa33da8c"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/index.ts": {
+    "mtime": 1781946416.2241743,
+    "ast_hash": "0b8fa70bd33fe710f8c9d189bc604d71",
+    "semantic_hash": "0b8fa70bd33fe710f8c9d189bc604d71"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/java.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "1d521990edc7eb6e52bff84ec9e0b4ab",
+    "semantic_hash": "1d521990edc7eb6e52bff84ec9e0b4ab"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/javascript.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "298a24ce877372c06bcbf3d0f8a7b514",
+    "semantic_hash": "298a24ce877372c06bcbf3d0f8a7b514"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/jenkinsfile.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "fb3dabd03768458b110fc978ee26c9a3",
+    "semantic_hash": "fb3dabd03768458b110fc978ee26c9a3"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/json-config.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "488b8b099c1cb4c888aead55c94b232c",
+    "semantic_hash": "488b8b099c1cb4c888aead55c94b232c"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/json-schema.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "11cd62422505a58cd8ae9829155f7a66",
+    "semantic_hash": "11cd62422505a58cd8ae9829155f7a66"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/kotlin.ts": {
+    "mtime": 1781284195.155962,
+    "ast_hash": "ad28f25caee6930da764c7f3b3f8ce74",
+    "semantic_hash": "ad28f25caee6930da764c7f3b3f8ce74"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/kubernetes.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "d7cee084ac89ee17d1b5a4653c09f04e",
+    "semantic_hash": "d7cee084ac89ee17d1b5a4653c09f04e"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/lua.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "ed79f1c9dc2dd42c75e0b16329d16ea9",
+    "semantic_hash": "ed79f1c9dc2dd42c75e0b16329d16ea9"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/makefile.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "d782b4cd6025c1d50b69a63fcbe4527c",
+    "semantic_hash": "d782b4cd6025c1d50b69a63fcbe4527c"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/markdown.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "8485c0bca23c1270a779272606140f3c",
+    "semantic_hash": "8485c0bca23c1270a779272606140f3c"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/openapi.ts": {
+    "mtime": 1779780819.8010662,
+    "ast_hash": "e502585c1934c7681ce24878fe60f2dd",
+    "semantic_hash": "e502585c1934c7681ce24878fe60f2dd"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/php.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "6727f850aa68622caf66240e1d7bcf9f",
+    "semantic_hash": "6727f850aa68622caf66240e1d7bcf9f"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/plaintext.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "17817b03a4c206b4d554c4f7952fc991",
+    "semantic_hash": "17817b03a4c206b4d554c4f7952fc991"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/powershell.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "20f1aacaf8943c794f7072b732564a79",
+    "semantic_hash": "20f1aacaf8943c794f7072b732564a79"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/protobuf.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "396fcbe2c28464dc0e074d47561e7ff2",
+    "semantic_hash": "396fcbe2c28464dc0e074d47561e7ff2"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/python.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "df97db252a68d60749201df5b35f5120",
+    "semantic_hash": "df97db252a68d60749201df5b35f5120"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/restructuredtext.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "2497e36364d9c75c7977e57767ee0f7f",
+    "semantic_hash": "2497e36364d9c75c7977e57767ee0f7f"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/ruby.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "d3f36b4984078f2984e28d8d2c65b813",
+    "semantic_hash": "d3f36b4984078f2984e28d8d2c65b813"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/rust.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "4c34d44f356b2392750d2893aacd682b",
+    "semantic_hash": "4c34d44f356b2392750d2893aacd682b"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/shell.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "0fdcf7fb03879282e791a20ceaae90fe",
+    "semantic_hash": "0fdcf7fb03879282e791a20ceaae90fe"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/sql.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "bcd3f4c512e642253015e2f3dfffbeea",
+    "semantic_hash": "bcd3f4c512e642253015e2f3dfffbeea"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/swift.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "16ab4e75c137c4263178b96b7a7cf6f7",
+    "semantic_hash": "16ab4e75c137c4263178b96b7a7cf6f7"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/terraform.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "6f0a26654e0aedae537c11a3d8c01160",
+    "semantic_hash": "6f0a26654e0aedae537c11a3d8c01160"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/toml.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "7bf0898479e1034f91b50329b39f4c41",
+    "semantic_hash": "7bf0898479e1034f91b50329b39f4c41"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/typescript.ts": {
+    "mtime": 1779780819.802066,
+    "ast_hash": "4ed4ee49560e9f30af65482ac24e2851",
+    "semantic_hash": "4ed4ee49560e9f30af65482ac24e2851"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/xml.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "af9023eaeee4cbcc70bca4572db3fe8e",
+    "semantic_hash": "af9023eaeee4cbcc70bca4572db3fe8e"
+  },
+  "understand-anything-plugin/packages/core/src/languages/configs/yaml.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "737b069bb319b0f02c10c82199465c77",
+    "semantic_hash": "737b069bb319b0f02c10c82199465c77"
+  },
+  "understand-anything-plugin/packages/core/src/languages/framework-registry.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "12c50b61aa74cacd7de4ae963a71475c",
+    "semantic_hash": "12c50b61aa74cacd7de4ae963a71475c"
+  },
+  "understand-anything-plugin/packages/core/src/languages/frameworks/django.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "8348371d15d36175aeb55fbeaec37a2f",
+    "semantic_hash": "8348371d15d36175aeb55fbeaec37a2f"
+  },
+  "understand-anything-plugin/packages/core/src/languages/frameworks/express.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "502cc9b6432f292b814206391c9b8c21",
+    "semantic_hash": "502cc9b6432f292b814206391c9b8c21"
+  },
+  "understand-anything-plugin/packages/core/src/languages/frameworks/fastapi.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "020ab9f8f0768bb191a3816a7f7f3fd2",
+    "semantic_hash": "020ab9f8f0768bb191a3816a7f7f3fd2"
+  },
+  "understand-anything-plugin/packages/core/src/languages/frameworks/flask.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "928ba11d7d324e71d70d0b56b66991df",
+    "semantic_hash": "928ba11d7d324e71d70d0b56b66991df"
+  },
+  "understand-anything-plugin/packages/core/src/languages/frameworks/gin.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "2f0c7210941632b4e6a8395ffebd6526",
+    "semantic_hash": "2f0c7210941632b4e6a8395ffebd6526"
+  },
+  "understand-anything-plugin/packages/core/src/languages/frameworks/index.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "ea1fd30fd36a32863de375308b7b27fc",
+    "semantic_hash": "ea1fd30fd36a32863de375308b7b27fc"
+  },
+  "understand-anything-plugin/packages/core/src/languages/frameworks/nextjs.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "791d91d2cbc13dafbac1097a41fd594e",
+    "semantic_hash": "791d91d2cbc13dafbac1097a41fd594e"
+  },
+  "understand-anything-plugin/packages/core/src/languages/frameworks/rails.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "ff24d97caffb58321ec37154f1eee32d",
+    "semantic_hash": "ff24d97caffb58321ec37154f1eee32d"
+  },
+  "understand-anything-plugin/packages/core/src/languages/frameworks/react.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "c90a959aabf9d32d948964e5fa14d266",
+    "semantic_hash": "c90a959aabf9d32d948964e5fa14d266"
+  },
+  "understand-anything-plugin/packages/core/src/languages/frameworks/spring.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "d5bd4632139970d29f0e53300963520e",
+    "semantic_hash": "d5bd4632139970d29f0e53300963520e"
+  },
+  "understand-anything-plugin/packages/core/src/languages/frameworks/vue.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "3bf4ded15c9c797112ac38a90d8baefc",
+    "semantic_hash": "3bf4ded15c9c797112ac38a90d8baefc"
+  },
+  "understand-anything-plugin/packages/core/src/languages/index.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "0a604e502d2da71eeb4821a12ae809a1",
+    "semantic_hash": "0a604e502d2da71eeb4821a12ae809a1"
+  },
+  "understand-anything-plugin/packages/core/src/languages/language-registry.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "935e227b9a0364889a22ce8e543f6ef0",
+    "semantic_hash": "935e227b9a0364889a22ce8e543f6ef0"
+  },
+  "understand-anything-plugin/packages/core/src/languages/types.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "7d3cd8fccb9c2c0c112b6b13ea94595c",
+    "semantic_hash": "7d3cd8fccb9c2c0c112b6b13ea94595c"
+  },
+  "understand-anything-plugin/packages/core/src/persistence/index.ts": {
+    "mtime": 1779780819.803066,
+    "ast_hash": "d8f47bb91855dd113b11059aefd19ee4",
+    "semantic_hash": "d8f47bb91855dd113b11059aefd19ee4"
+  },
+  "understand-anything-plugin/packages/core/src/persistence/persistence.test.ts": {
+    "mtime": 1779780819.804066,
+    "ast_hash": "ccb2c3b13232b9fb46845cb92b2e0bec",
+    "semantic_hash": "ccb2c3b13232b9fb46845cb92b2e0bec"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/discovery.ts": {
+    "mtime": 1779780819.804066,
+    "ast_hash": "352abeba7cefa57756e02fe0e35b552c",
+    "semantic_hash": "352abeba7cefa57756e02fe0e35b552c"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/__tests__/cpp-extractor.test.ts": {
+    "mtime": 1779780819.804066,
+    "ast_hash": "db3cf658869fa4574a6822464ce15891",
+    "semantic_hash": "db3cf658869fa4574a6822464ce15891"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/__tests__/csharp-extractor.test.ts": {
+    "mtime": 1779780819.804066,
+    "ast_hash": "11e433a4fa31ef45394b6d3a090640bf",
+    "semantic_hash": "11e433a4fa31ef45394b6d3a090640bf"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/__tests__/dart-extractor.test.ts": {
+    "mtime": 1781946416.2241743,
+    "ast_hash": "8eea19f384096b6143cf7feb5f6d3a57",
+    "semantic_hash": "8eea19f384096b6143cf7feb5f6d3a57"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/__tests__/go-extractor.test.ts": {
+    "mtime": 1779780819.805066,
+    "ast_hash": "c11fa9c7fa8f5742df68f5406bf39c42",
+    "semantic_hash": "c11fa9c7fa8f5742df68f5406bf39c42"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/__tests__/java-extractor.test.ts": {
+    "mtime": 1779780819.805066,
+    "ast_hash": "f8c6a6390150f25f83479b8271d9b60f",
+    "semantic_hash": "f8c6a6390150f25f83479b8271d9b60f"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/__tests__/kotlin-extractor.test.ts": {
+    "mtime": 1781284195.155962,
+    "ast_hash": "1f9434a6100df33e62abbb4f86520a26",
+    "semantic_hash": "1f9434a6100df33e62abbb4f86520a26"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/__tests__/php-extractor.test.ts": {
+    "mtime": 1779780819.805066,
+    "ast_hash": "30e737bfc9083faa7741239eb08a5cd2",
+    "semantic_hash": "30e737bfc9083faa7741239eb08a5cd2"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/__tests__/python-extractor.test.ts": {
+    "mtime": 1779780819.805066,
+    "ast_hash": "9c59b70d3e97ecb17e0ceba6c155bfb6",
+    "semantic_hash": "9c59b70d3e97ecb17e0ceba6c155bfb6"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/__tests__/ruby-extractor.test.ts": {
+    "mtime": 1779780819.805066,
+    "ast_hash": "8096d3794038e8fdb71744dfb2d04e2d",
+    "semantic_hash": "8096d3794038e8fdb71744dfb2d04e2d"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/__tests__/rust-extractor.test.ts": {
+    "mtime": 1779780819.805066,
+    "ast_hash": "98419a32b203b34fdebda00363b55235",
+    "semantic_hash": "98419a32b203b34fdebda00363b55235"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/base-extractor.ts": {
+    "mtime": 1779780819.805066,
+    "ast_hash": "a5bf4fae93a5203a4f3288220df93616",
+    "semantic_hash": "a5bf4fae93a5203a4f3288220df93616"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/cpp-extractor.ts": {
+    "mtime": 1779780819.805066,
+    "ast_hash": "8830b417b9d640c44976460ded987573",
+    "semantic_hash": "8830b417b9d640c44976460ded987573"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/csharp-extractor.ts": {
+    "mtime": 1779780819.806066,
+    "ast_hash": "32b2b670bebffbc8ed9b558ffad9d0f6",
+    "semantic_hash": "32b2b670bebffbc8ed9b558ffad9d0f6"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/dart-extractor.ts": {
+    "mtime": 1781946416.2241743,
+    "ast_hash": "6d5af90c0133644c78aa66b4b59ba7a6",
+    "semantic_hash": "6d5af90c0133644c78aa66b4b59ba7a6"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/go-extractor.ts": {
+    "mtime": 1779780819.806066,
+    "ast_hash": "5f43f7e9d985e2948263efe11e44065f",
+    "semantic_hash": "5f43f7e9d985e2948263efe11e44065f"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/index.ts": {
+    "mtime": 1781946416.2241743,
+    "ast_hash": "d13c41686d6882975e85e43c4250603d",
+    "semantic_hash": "d13c41686d6882975e85e43c4250603d"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/java-extractor.ts": {
+    "mtime": 1779780819.806066,
+    "ast_hash": "e71c7a3b46a132e964df6d1a997b5cee",
+    "semantic_hash": "e71c7a3b46a132e964df6d1a997b5cee"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/kotlin-extractor.ts": {
+    "mtime": 1781284195.1579618,
+    "ast_hash": "4f1ac17e0d5805009b914db70c786bcb",
+    "semantic_hash": "4f1ac17e0d5805009b914db70c786bcb"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/php-extractor.ts": {
+    "mtime": 1779780819.806066,
+    "ast_hash": "4c61ca02f41753aaf28afa559b68630e",
+    "semantic_hash": "4c61ca02f41753aaf28afa559b68630e"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/python-extractor.ts": {
+    "mtime": 1779780819.806066,
+    "ast_hash": "9d5657414f54511164076fb87d1f2266",
+    "semantic_hash": "9d5657414f54511164076fb87d1f2266"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/ruby-extractor.ts": {
+    "mtime": 1779780819.806066,
+    "ast_hash": "c182e9951b0cd794606bc114b9fd0d0b",
+    "semantic_hash": "c182e9951b0cd794606bc114b9fd0d0b"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/rust-extractor.ts": {
+    "mtime": 1779780819.806066,
+    "ast_hash": "18e4a24971567896f63b35e676d74b91",
+    "semantic_hash": "18e4a24971567896f63b35e676d74b91"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/types.ts": {
+    "mtime": 1779780819.806066,
+    "ast_hash": "5eb4145469f1f71fd45cc025517419ef",
+    "semantic_hash": "5eb4145469f1f71fd45cc025517419ef"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/extractors/typescript-extractor.ts": {
+    "mtime": 1779780819.806066,
+    "ast_hash": "87b894d77cb8c72b67d8930502eaaeb5",
+    "semantic_hash": "87b894d77cb8c72b67d8930502eaaeb5"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/parsers/dockerfile-parser.ts": {
+    "mtime": 1779780819.806066,
+    "ast_hash": "39bd655dac4a66ad1832556780fe898f",
+    "semantic_hash": "39bd655dac4a66ad1832556780fe898f"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/parsers/env-parser.ts": {
+    "mtime": 1779780819.806066,
+    "ast_hash": "bf910f7fc166f1707898f5dbe781b5dc",
+    "semantic_hash": "bf910f7fc166f1707898f5dbe781b5dc"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/parsers/graphql-parser.ts": {
+    "mtime": 1779780819.807066,
+    "ast_hash": "ff707d28623fc6200df69a45321aebf9",
+    "semantic_hash": "ff707d28623fc6200df69a45321aebf9"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/parsers/index.ts": {
+    "mtime": 1779780819.807066,
+    "ast_hash": "b4c9e9e24a5cad47b8a58706c385b990",
+    "semantic_hash": "b4c9e9e24a5cad47b8a58706c385b990"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/parsers/json-parser.ts": {
+    "mtime": 1779780819.807066,
+    "ast_hash": "383ce6f6e25bed32d35a9438c6472923",
+    "semantic_hash": "383ce6f6e25bed32d35a9438c6472923"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/parsers/makefile-parser.ts": {
+    "mtime": 1779780819.807066,
+    "ast_hash": "3efa878bd4714f7646c9f1995677637a",
+    "semantic_hash": "3efa878bd4714f7646c9f1995677637a"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/parsers/markdown-parser.ts": {
+    "mtime": 1779780819.807066,
+    "ast_hash": "34df7b730648ee99b146c2b0ec341155",
+    "semantic_hash": "34df7b730648ee99b146c2b0ec341155"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/parsers/protobuf-parser.ts": {
+    "mtime": 1779780819.807066,
+    "ast_hash": "4e4c4da8afe0f6dc0599bbda1a88099d",
+    "semantic_hash": "4e4c4da8afe0f6dc0599bbda1a88099d"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/parsers/shell-parser.ts": {
+    "mtime": 1779780819.807066,
+    "ast_hash": "d91e4010cc4444d57406c279cbb59f4a",
+    "semantic_hash": "d91e4010cc4444d57406c279cbb59f4a"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/parsers/sql-parser.ts": {
+    "mtime": 1779780819.807066,
+    "ast_hash": "2a13ba88f06b0bebdc3b8ec3c263ed6d",
+    "semantic_hash": "2a13ba88f06b0bebdc3b8ec3c263ed6d"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/parsers/terraform-parser.ts": {
+    "mtime": 1779780819.807066,
+    "ast_hash": "80ab38076a7623d638f9464bb84b1a1a",
+    "semantic_hash": "80ab38076a7623d638f9464bb84b1a1a"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/parsers/toml-parser.ts": {
+    "mtime": 1779780819.807066,
+    "ast_hash": "d0995c2f6d829ae1805e71cc3b9fa142",
+    "semantic_hash": "d0995c2f6d829ae1805e71cc3b9fa142"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/parsers/yaml-parser.ts": {
+    "mtime": 1779780819.807066,
+    "ast_hash": "0290f3a4b2a840ae089cdc24b6ab97c6",
+    "semantic_hash": "0290f3a4b2a840ae089cdc24b6ab97c6"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/registry.ts": {
+    "mtime": 1779780819.807066,
+    "ast_hash": "2bca83d6783abeb48001cfabfe6255af",
+    "semantic_hash": "2bca83d6783abeb48001cfabfe6255af"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/tree-sitter-plugin.test.ts": {
+    "mtime": 1779780819.807066,
+    "ast_hash": "657e40c7ec69c706e3a899c79244df76",
+    "semantic_hash": "657e40c7ec69c706e3a899c79244df76"
+  },
+  "understand-anything-plugin/packages/core/src/plugins/tree-sitter-plugin.ts": {
+    "mtime": 1779780819.8080661,
+    "ast_hash": "4c2bb25048ffcf7bd9285aef742342f4",
+    "semantic_hash": "4c2bb25048ffcf7bd9285aef742342f4"
+  },
+  "understand-anything-plugin/packages/core/src/schema.ts": {
+    "mtime": 1779780819.8080661,
+    "ast_hash": "0a50924ee1d35ed19f679b875a31de91",
+    "semantic_hash": "0a50924ee1d35ed19f679b875a31de91"
+  },
+  "understand-anything-plugin/packages/core/src/search.ts": {
+    "mtime": 1779780819.8080661,
+    "ast_hash": "99f2ca593ea2476842c4daa3dc9e89aa",
+    "semantic_hash": "99f2ca593ea2476842c4daa3dc9e89aa"
+  },
+  "understand-anything-plugin/packages/core/src/staleness.ts": {
+    "mtime": 1779780819.8080661,
+    "ast_hash": "6f07a682a5c46b8db986bb4795fc3a08",
+    "semantic_hash": "6f07a682a5c46b8db986bb4795fc3a08"
+  },
+  "understand-anything-plugin/packages/core/src/types.test.ts": {
+    "mtime": 1779780819.8080661,
+    "ast_hash": "a058ea8c3ef381610255c668e15722db",
+    "semantic_hash": "a058ea8c3ef381610255c668e15722db"
+  },
+  "understand-anything-plugin/packages/core/src/types.ts": {
+    "mtime": 1779780819.8080661,
+    "ast_hash": "6621d46f2397e713498b19ef06e31e17",
+    "semantic_hash": "6621d46f2397e713498b19ef06e31e17"
+  },
+  "understand-anything-plugin/packages/core/tsconfig.json": {
+    "mtime": 1779780819.8080661,
+    "ast_hash": "9738454de0bcd887d74e7f8a5595ff92",
+    "semantic_hash": "9738454de0bcd887d74e7f8a5595ff92"
+  },
+  "understand-anything-plugin/packages/core/vitest.config.ts": {
+    "mtime": 1779780819.8080661,
+    "ast_hash": "e345873e77af228dbeb242ede9f9d136",
+    "semantic_hash": "e345873e77af228dbeb242ede9f9d136"
+  },
+  "understand-anything-plugin/packages/dashboard/package.json": {
+    "mtime": 1779780819.8080661,
+    "ast_hash": "bc0772b543cefcbb6e5f24457b878ab7",
+    "semantic_hash": "bc0772b543cefcbb6e5f24457b878ab7"
+  },
+  "understand-anything-plugin/packages/dashboard/public/knowledge-graph.json": {
+    "mtime": 1779780819.809066,
+    "ast_hash": "a3c2b8c1ab8639344af15461f3266f1e",
+    "semantic_hash": "a3c2b8c1ab8639344af15461f3266f1e"
+  },
+  "understand-anything-plugin/packages/dashboard/scripts/benchmark-aggregations.mjs": {
+    "mtime": 1779780819.809066,
+    "ast_hash": "cbfe6b27fa939804e10f1f611fb48589",
+    "semantic_hash": "cbfe6b27fa939804e10f1f611fb48589"
+  },
+  "understand-anything-plugin/packages/dashboard/scripts/benchmark-layout.mjs": {
+    "mtime": 1779780819.809066,
+    "ast_hash": "71813961558726c45938920a05dd93f8",
+    "semantic_hash": "71813961558726c45938920a05dd93f8"
+  },
+  "understand-anything-plugin/packages/dashboard/src/App.tsx": {
+    "mtime": 1781284195.1589618,
+    "ast_hash": "7886ae8918fa1b9d9fe7a3e76f0df280",
+    "semantic_hash": "7886ae8918fa1b9d9fe7a3e76f0df280"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/Breadcrumb.tsx": {
+    "mtime": 1779780819.810066,
+    "ast_hash": "ed26c266611aa6bc199427df0096f173",
+    "semantic_hash": "ed26c266611aa6bc199427df0096f173"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/CodeViewer.tsx": {
+    "mtime": 1779780819.810066,
+    "ast_hash": "36df0a124edb1c77bef3ffd406d95e37",
+    "semantic_hash": "36df0a124edb1c77bef3ffd406d95e37"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/ContainerNode.tsx": {
+    "mtime": 1779780819.810066,
+    "ast_hash": "0cf32b9fd32c5c7efaf1541a7de7345f",
+    "semantic_hash": "0cf32b9fd32c5c7efaf1541a7de7345f"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/CustomNode.tsx": {
+    "mtime": 1779780819.810066,
+    "ast_hash": "ee5ba5ca4edb9af1f8a52c54accc157d",
+    "semantic_hash": "ee5ba5ca4edb9af1f8a52c54accc157d"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/DiffToggle.tsx": {
+    "mtime": 1779780819.810066,
+    "ast_hash": "762088fd3121d4034692a850ade2712b",
+    "semantic_hash": "762088fd3121d4034692a850ade2712b"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/DomainClusterNode.tsx": {
+    "mtime": 1779780819.810066,
+    "ast_hash": "0b545554dbff223eb437051fa2d67035",
+    "semantic_hash": "0b545554dbff223eb437051fa2d67035"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/DomainGraphView.tsx": {
+    "mtime": 1779780819.810066,
+    "ast_hash": "d358176f4440b0937438fbb65e9ac06a",
+    "semantic_hash": "d358176f4440b0937438fbb65e9ac06a"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/ExportMenu.tsx": {
+    "mtime": 1779780819.810066,
+    "ast_hash": "227ab0813ef5cee79099033998b69c2f",
+    "semantic_hash": "227ab0813ef5cee79099033998b69c2f"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/FileExplorer.tsx": {
+    "mtime": 1779780819.810066,
+    "ast_hash": "ac289651fee1f5b7b294f8b5e2147fa0",
+    "semantic_hash": "ac289651fee1f5b7b294f8b5e2147fa0"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/FilterPanel.tsx": {
+    "mtime": 1779780819.810066,
+    "ast_hash": "38491b84951039fd29351c80d34abd83",
+    "semantic_hash": "38491b84951039fd29351c80d34abd83"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/FlowNode.tsx": {
+    "mtime": 1779780819.810066,
+    "ast_hash": "87f4ebede195678422082b8113d8c490",
+    "semantic_hash": "87f4ebede195678422082b8113d8c490"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/GraphView.tsx": {
+    "mtime": 1779780819.811066,
+    "ast_hash": "e79bae268f0065a831b363b1aa7a2eeb",
+    "semantic_hash": "e79bae268f0065a831b363b1aa7a2eeb"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/KeyboardShortcutsHelp.tsx": {
+    "mtime": 1779780819.811066,
+    "ast_hash": "7274477d5b05593a015d80606d676ec5",
+    "semantic_hash": "7274477d5b05593a015d80606d676ec5"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/KnowledgeGraphView.tsx": {
+    "mtime": 1779780819.811066,
+    "ast_hash": "46d509b1d749b7b26d7bad29511a5a23",
+    "semantic_hash": "46d509b1d749b7b26d7bad29511a5a23"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/LayerClusterNode.tsx": {
+    "mtime": 1779780819.811066,
+    "ast_hash": "a0322be0b39a5519111fc98cd264c91b",
+    "semantic_hash": "a0322be0b39a5519111fc98cd264c91b"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/LayerLegend.tsx": {
+    "mtime": 1779780819.811066,
+    "ast_hash": "9f1a6bdfc9e1e672e010e37cfbe171ed",
+    "semantic_hash": "9f1a6bdfc9e1e672e010e37cfbe171ed"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/LearnPanel.tsx": {
+    "mtime": 1779780819.811066,
+    "ast_hash": "78db4d16290d1a2d9cb9fa266294d560",
+    "semantic_hash": "78db4d16290d1a2d9cb9fa266294d560"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/MobileBottomNav.tsx": {
+    "mtime": 1779780819.811066,
+    "ast_hash": "a61e2da876efb491ff3048586fdad145",
+    "semantic_hash": "a61e2da876efb491ff3048586fdad145"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/MobileDrawer.tsx": {
+    "mtime": 1779780819.811066,
+    "ast_hash": "ff3db2fdeb44f201b763cae6f18f8dbf",
+    "semantic_hash": "ff3db2fdeb44f201b763cae6f18f8dbf"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/MobileLayout.tsx": {
+    "mtime": 1779780819.811066,
+    "ast_hash": "0d1c78c17fcc7297c93f74d5cbb526fa",
+    "semantic_hash": "0d1c78c17fcc7297c93f74d5cbb526fa"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/NodeInfo.tsx": {
+    "mtime": 1779780819.812066,
+    "ast_hash": "9da6a7492b3460c131d348150ef24bb4",
+    "semantic_hash": "9da6a7492b3460c131d348150ef24bb4"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/NodeTooltip.tsx": {
+    "mtime": 1779780819.812066,
+    "ast_hash": "0178029401f8c45724c3416a1c238518",
+    "semantic_hash": "0178029401f8c45724c3416a1c238518"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/OnboardingOverlay.tsx": {
+    "mtime": 1779780819.812066,
+    "ast_hash": "174149d6a7a51e6157b58ba5fd40f0a5",
+    "semantic_hash": "174149d6a7a51e6157b58ba5fd40f0a5"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/PathFinderModal.tsx": {
+    "mtime": 1779780819.812066,
+    "ast_hash": "06dfb09c31fe27d8caaad76f4ebb135c",
+    "semantic_hash": "06dfb09c31fe27d8caaad76f4ebb135c"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/PersonaSelector.tsx": {
+    "mtime": 1779780819.812066,
+    "ast_hash": "bbe4d1ac2e2215efc81be8b02181a389",
+    "semantic_hash": "bbe4d1ac2e2215efc81be8b02181a389"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/PortalNode.tsx": {
+    "mtime": 1779780819.812066,
+    "ast_hash": "8f6af98f365f3fa4a6bd166342139d10",
+    "semantic_hash": "8f6af98f365f3fa4a6bd166342139d10"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/ProjectOverview.tsx": {
+    "mtime": 1779780819.812066,
+    "ast_hash": "2a98e9318f5df7e93215d4452e0badcf",
+    "semantic_hash": "2a98e9318f5df7e93215d4452e0badcf"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/SearchBar.tsx": {
+    "mtime": 1779780819.812066,
+    "ast_hash": "9954f384859261d2c79dfa8c254c863a",
+    "semantic_hash": "9954f384859261d2c79dfa8c254c863a"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/StepNode.tsx": {
+    "mtime": 1779780819.812066,
+    "ast_hash": "d32be2d407781c4b9c07a931ab697e0a",
+    "semantic_hash": "d32be2d407781c4b9c07a931ab697e0a"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/ThemePicker.tsx": {
+    "mtime": 1779780819.812066,
+    "ast_hash": "68bf60f79fb6a9fb5832af6b75dc7da4",
+    "semantic_hash": "68bf60f79fb6a9fb5832af6b75dc7da4"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/TokenGate.tsx": {
+    "mtime": 1779780819.813066,
+    "ast_hash": "4d93a54a7a541cfc0fb5a8dfbb6232d1",
+    "semantic_hash": "4d93a54a7a541cfc0fb5a8dfbb6232d1"
+  },
+  "understand-anything-plugin/packages/dashboard/src/components/WarningBanner.tsx": {
+    "mtime": 1781284195.1589618,
+    "ast_hash": "1d418183e3c1ad5de4e60c46467f3a1d",
+    "semantic_hash": "1d418183e3c1ad5de4e60c46467f3a1d"
+  },
+  "understand-anything-plugin/packages/dashboard/src/contexts/I18nContext.tsx": {
+    "mtime": 1779780819.813066,
+    "ast_hash": "77e37a358846050435d40a1f390fd14c",
+    "semantic_hash": "77e37a358846050435d40a1f390fd14c"
+  },
+  "understand-anything-plugin/packages/dashboard/src/hooks/useIsMobile.ts": {
+    "mtime": 1779780819.813066,
+    "ast_hash": "4afcd713d2f3c67b0a107de7bdc38aba",
+    "semantic_hash": "4afcd713d2f3c67b0a107de7bdc38aba"
+  },
+  "understand-anything-plugin/packages/dashboard/src/hooks/useKeyboardShortcuts.ts": {
+    "mtime": 1779780819.813066,
+    "ast_hash": "fe1ffb40afaa0c46f785200122380667",
+    "semantic_hash": "fe1ffb40afaa0c46f785200122380667"
+  },
+  "understand-anything-plugin/packages/dashboard/src/locales/en.ts": {
+    "mtime": 1779780819.813066,
+    "ast_hash": "841dd98fb77a8ab13d71d172ef06fcb3",
+    "semantic_hash": "841dd98fb77a8ab13d71d172ef06fcb3"
+  },
+  "understand-anything-plugin/packages/dashboard/src/locales/index.ts": {
+    "mtime": 1779780819.813066,
+    "ast_hash": "2ddb5a9063df7f6218b817c6c3674acc",
+    "semantic_hash": "2ddb5a9063df7f6218b817c6c3674acc"
+  },
+  "understand-anything-plugin/packages/dashboard/src/locales/ja.ts": {
+    "mtime": 1779780819.813066,
+    "ast_hash": "cd02d4fb292e33b5754eb9575be0851d",
+    "semantic_hash": "cd02d4fb292e33b5754eb9575be0851d"
+  },
+  "understand-anything-plugin/packages/dashboard/src/locales/ko.ts": {
+    "mtime": 1779780819.813066,
+    "ast_hash": "33fd9166f35d61502f7e4799a03a46c6",
+    "semantic_hash": "33fd9166f35d61502f7e4799a03a46c6"
+  },
+  "understand-anything-plugin/packages/dashboard/src/locales/ru.ts": {
+    "mtime": 1779780819.814066,
+    "ast_hash": "cc78e5400a46f3b5c113fbe68e1153c0",
+    "semantic_hash": "cc78e5400a46f3b5c113fbe68e1153c0"
+  },
+  "understand-anything-plugin/packages/dashboard/src/locales/zh-TW.ts": {
+    "mtime": 1779780819.814066,
+    "ast_hash": "daf5608f1a883ee6878a6bd2b53820d8",
+    "semantic_hash": "daf5608f1a883ee6878a6bd2b53820d8"
+  },
+  "understand-anything-plugin/packages/dashboard/src/locales/zh.ts": {
+    "mtime": 1779780819.814066,
+    "ast_hash": "96966096ccf2343ccfa7a30210057051",
+    "semantic_hash": "96966096ccf2343ccfa7a30210057051"
+  },
+  "understand-anything-plugin/packages/dashboard/src/main.tsx": {
+    "mtime": 1779780819.814066,
+    "ast_hash": "f5b0d58b70dacf02f3fdab641b4b6580",
+    "semantic_hash": "f5b0d58b70dacf02f3fdab641b4b6580"
+  },
+  "understand-anything-plugin/packages/dashboard/src/store.ts": {
+    "mtime": 1779780819.814066,
+    "ast_hash": "81c7a6c9a306867b6b78cfe60e6cb0d3",
+    "semantic_hash": "81c7a6c9a306867b6b78cfe60e6cb0d3"
+  },
+  "understand-anything-plugin/packages/dashboard/src/themes/ThemeContext.tsx": {
+    "mtime": 1779780819.814066,
+    "ast_hash": "7a69ae93bec898760aa27d7a333d4f0b",
+    "semantic_hash": "7a69ae93bec898760aa27d7a333d4f0b"
+  },
+  "understand-anything-plugin/packages/dashboard/src/themes/index.ts": {
+    "mtime": 1779780819.814066,
+    "ast_hash": "cd2c5201147292c85e9851e2d823346b",
+    "semantic_hash": "cd2c5201147292c85e9851e2d823346b"
+  },
+  "understand-anything-plugin/packages/dashboard/src/themes/presets.ts": {
+    "mtime": 1779780819.814066,
+    "ast_hash": "ab72d9157de0d9e5edb9a2d6af8d6592",
+    "semantic_hash": "ab72d9157de0d9e5edb9a2d6af8d6592"
+  },
+  "understand-anything-plugin/packages/dashboard/src/themes/theme-engine.ts": {
+    "mtime": 1779780819.814066,
+    "ast_hash": "046700e05907e4a44373a191e40765d3",
+    "semantic_hash": "046700e05907e4a44373a191e40765d3"
+  },
+  "understand-anything-plugin/packages/dashboard/src/themes/types.ts": {
+    "mtime": 1779780819.814066,
+    "ast_hash": "43977acda516137ceed6be11d42817e6",
+    "semantic_hash": "43977acda516137ceed6be11d42817e6"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/__tests__/containers.test.ts": {
+    "mtime": 1779780819.814066,
+    "ast_hash": "84b9da67ec5a6fadb459ed4d8e589863",
+    "semantic_hash": "84b9da67ec5a6fadb459ed4d8e589863"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/__tests__/edgeAggregation.test.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "1ce6fd5ed1599dc5f228eb35c8774cfc",
+    "semantic_hash": "1ce6fd5ed1599dc5f228eb35c8774cfc"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/__tests__/elk-layout.test.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "93d9f1ea621157447f5f9783a3ec3375",
+    "semantic_hash": "93d9f1ea621157447f5f9783a3ec3375"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/__tests__/filters.test.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "c6ebe9f43cf382f43b6cb25c44f764c3",
+    "semantic_hash": "c6ebe9f43cf382f43b6cb25c44f764c3"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/__tests__/layerStats.test.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "e304a4f0c26e56d36080d90fc0b88e8e",
+    "semantic_hash": "e304a4f0c26e56d36080d90fc0b88e8e"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/__tests__/smoke.test.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "f39be1680a16a6b4e8c4c5474e2fe57f",
+    "semantic_hash": "f39be1680a16a6b4e8c4c5474e2fe57f"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/containers.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "63050237bf06b40c112a0851bb2ffcc0",
+    "semantic_hash": "63050237bf06b40c112a0851bb2ffcc0"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/edgeAggregation.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "5d5b37ad56d63ea7602c8ca65ad1d505",
+    "semantic_hash": "5d5b37ad56d63ea7602c8ca65ad1d505"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/elk-layout.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "8f1600f10d1b68e984c159f67f510f75",
+    "semantic_hash": "8f1600f10d1b68e984c159f67f510f75"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/filters.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "ae93d2818888506685ffdfb290b3b226",
+    "semantic_hash": "ae93d2818888506685ffdfb290b3b226"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/layerStats.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "c953aedbafd27c165f2c3b02e51a480d",
+    "semantic_hash": "c953aedbafd27c165f2c3b02e51a480d"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/layout.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "9959f4a503a385244fd37edf8d396079",
+    "semantic_hash": "9959f4a503a385244fd37edf8d396079"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/layout.worker.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "24bc16259fd7a5b4af8e84f972cc281c",
+    "semantic_hash": "24bc16259fd7a5b4af8e84f972cc281c"
+  },
+  "understand-anything-plugin/packages/dashboard/src/utils/louvain.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "ce69c16a57d6500132283ab874b858c0",
+    "semantic_hash": "ce69c16a57d6500132283ab874b858c0"
+  },
+  "understand-anything-plugin/packages/dashboard/src/vite-env.d.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "0352474ba2918efe13895edbc3780d94",
+    "semantic_hash": "0352474ba2918efe13895edbc3780d94"
+  },
+  "understand-anything-plugin/packages/dashboard/tsconfig.app.json": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "afa69ab3ce212b06cf447d39051eacc3",
+    "semantic_hash": "afa69ab3ce212b06cf447d39051eacc3"
+  },
+  "understand-anything-plugin/packages/dashboard/tsconfig.json": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "6ea63aef2395eb74cb590bca593e248c",
+    "semantic_hash": "6ea63aef2395eb74cb590bca593e248c"
+  },
+  "understand-anything-plugin/packages/dashboard/vite.config.demo.ts": {
+    "mtime": 1779780819.8150659,
+    "ast_hash": "557e84f266e09ef0523f54bfdf1cc361",
+    "semantic_hash": "557e84f266e09ef0523f54bfdf1cc361"
+  },
+  "understand-anything-plugin/packages/dashboard/vite.config.ts": {
+    "mtime": 1779780819.816066,
+    "ast_hash": "0e23e7ae8177bb0096eed450974e7214",
+    "semantic_hash": "0e23e7ae8177bb0096eed450974e7214"
+  },
+  "understand-anything-plugin/packages/tree-sitter-dart-wasm/package.json": {
+    "mtime": 1781946416.2251742,
+    "ast_hash": "0c35bf656759589cc719af117f90c4ac",
+    "semantic_hash": "0c35bf656759589cc719af117f90c4ac"
+  },
+  "understand-anything-plugin/skills/understand-domain/extract-domain-context.py": {
+    "mtime": 1779780819.816066,
+    "ast_hash": "cf4017331021656ce30b7add2da32d41",
+    "semantic_hash": "cf4017331021656ce30b7add2da32d41"
+  },
+  "understand-anything-plugin/skills/understand-knowledge/merge-knowledge-graph.py": {
+    "mtime": 1779780819.817066,
+    "ast_hash": "6b5dda0b81ac4ef65997930cb62bf0a9",
+    "semantic_hash": "6b5dda0b81ac4ef65997930cb62bf0a9"
+  },
+  "understand-anything-plugin/skills/understand-knowledge/parse-knowledge-base.py": {
+    "mtime": 1779780819.817066,
+    "ast_hash": "60c2d7909740aea8823755ce5a39a072",
+    "semantic_hash": "60c2d7909740aea8823755ce5a39a072"
+  },
+  "understand-anything-plugin/skills/understand/build-fingerprints.mjs": {
+    "mtime": 1779780819.818066,
+    "ast_hash": "f5a1ff30cd1c8770a80bdde1ce1d44db",
+    "semantic_hash": "f5a1ff30cd1c8770a80bdde1ce1d44db"
+  },
+  "understand-anything-plugin/skills/understand/compute-batches.mjs": {
+    "mtime": 1781284195.238961,
+    "ast_hash": "aa1cddac4375a673b7dde8787a6d58d5",
+    "semantic_hash": "aa1cddac4375a673b7dde8787a6d58d5"
+  },
+  "understand-anything-plugin/skills/understand/extract-import-map.mjs": {
+    "mtime": 1781284195.240961,
+    "ast_hash": "0b67570786f1edb6ffe7201e0c62f9e3",
+    "semantic_hash": "0b67570786f1edb6ffe7201e0c62f9e3"
+  },
+  "understand-anything-plugin/skills/understand/extract-structure.mjs": {
+    "mtime": 1779780819.819066,
+    "ast_hash": "58046a2195e2945c96d053c94a4476e1",
+    "semantic_hash": "58046a2195e2945c96d053c94a4476e1"
+  },
+  "understand-anything-plugin/skills/understand/generate-ignore.mjs": {
+    "mtime": 1781946416.2291741,
+    "ast_hash": "9dca5e1d82e06eb945b8bdf67db9871b",
+    "semantic_hash": "9dca5e1d82e06eb945b8bdf67db9871b"
+  },
+  "understand-anything-plugin/skills/understand/merge-batch-graphs.py": {
+    "mtime": 1779780819.8220658,
+    "ast_hash": "bcab9b63191eb9ed360cb37f040fa30d",
+    "semantic_hash": "bcab9b63191eb9ed360cb37f040fa30d"
+  },
+  "understand-anything-plugin/skills/understand/merge-subdomain-graphs.py": {
+    "mtime": 1779780819.8220658,
+    "ast_hash": "c2015a902a988391604d6a6f78a38a6b",
+    "semantic_hash": "c2015a902a988391604d6a6f78a38a6b"
+  },
+  "understand-anything-plugin/skills/understand/scan-project.mjs": {
+    "mtime": 1779780819.8220658,
+    "ast_hash": "7001578c75520af4acd850f1d1def4a4",
+    "semantic_hash": "7001578c75520af4acd850f1d1def4a4"
+  },
+  "understand-anything-plugin/src/__tests__/context-builder.test.ts": {
+    "mtime": 1779780819.823066,
+    "ast_hash": "ef614c0f5223a9f29486840179815ece",
+    "semantic_hash": "ef614c0f5223a9f29486840179815ece"
+  },
+  "understand-anything-plugin/src/__tests__/diff-analyzer.test.ts": {
+    "mtime": 1779780819.823066,
+    "ast_hash": "1fad41529fac74ddf92034e8539c0efa",
+    "semantic_hash": "1fad41529fac74ddf92034e8539c0efa"
+  },
+  "understand-anything-plugin/src/__tests__/explain-builder.test.ts": {
+    "mtime": 1779780819.823066,
+    "ast_hash": "7987e38f63fd6e16a7e1f00037c9275a",
+    "semantic_hash": "7987e38f63fd6e16a7e1f00037c9275a"
+  },
+  "understand-anything-plugin/src/__tests__/extract-structure.test.mjs": {
+    "mtime": 1779780819.823066,
+    "ast_hash": "9c3db75bfb162cce4374dae9c11f4f46",
+    "semantic_hash": "9c3db75bfb162cce4374dae9c11f4f46"
+  },
+  "understand-anything-plugin/src/__tests__/merge-recover-imports.test.mjs": {
+    "mtime": 1779780819.823066,
+    "ast_hash": "70d4fb2b4090f7bc9000b9bddef17a7f",
+    "semantic_hash": "70d4fb2b4090f7bc9000b9bddef17a7f"
+  },
+  "understand-anything-plugin/src/__tests__/onboard-builder.test.ts": {
+    "mtime": 1779780819.823066,
+    "ast_hash": "48735e004ac419cc2cde9104383b494a",
+    "semantic_hash": "48735e004ac419cc2cde9104383b494a"
+  },
+  "understand-anything-plugin/src/__tests__/worktree-redirect.test.mjs": {
+    "mtime": 1779780819.823066,
+    "ast_hash": "c17a0f1425f789c0a4cfb40a45158288",
+    "semantic_hash": "c17a0f1425f789c0a4cfb40a45158288"
+  },
+  "understand-anything-plugin/src/context-builder.ts": {
+    "mtime": 1779780819.823066,
+    "ast_hash": "bebde5e3dc76d8e83c42061a454b689d",
+    "semantic_hash": "bebde5e3dc76d8e83c42061a454b689d"
+  },
+  "understand-anything-plugin/src/diff-analyzer.ts": {
+    "mtime": 1779780819.823066,
+    "ast_hash": "8c3afea221a943b88ea8175e1118b043",
+    "semantic_hash": "8c3afea221a943b88ea8175e1118b043"
+  },
+  "understand-anything-plugin/src/explain-builder.ts": {
+    "mtime": 1779780819.823066,
+    "ast_hash": "b2a155dfcc4b567f019d035b834b1865",
+    "semantic_hash": "b2a155dfcc4b567f019d035b834b1865"
+  },
+  "understand-anything-plugin/src/index.ts": {
+    "mtime": 1779780819.823066,
+    "ast_hash": "ca4d40bbb6e561d75242a5975bd8da66",
+    "semantic_hash": "ca4d40bbb6e561d75242a5975bd8da66"
+  },
+  "understand-anything-plugin/src/onboard-builder.ts": {
+    "mtime": 1781284195.240961,
+    "ast_hash": "df9cf52b19c254308c6b28a001a032df",
+    "semantic_hash": "df9cf52b19c254308c6b28a001a032df"
+  },
+  "understand-anything-plugin/src/understand-chat.ts": {
+    "mtime": 1779780819.823066,
+    "ast_hash": "ec44a9db68523a4499ff3a94a18e943d",
+    "semantic_hash": "ec44a9db68523a4499ff3a94a18e943d"
+  },
+  "understand-anything-plugin/tsconfig.json": {
+    "mtime": 1779780819.823066,
+    "ast_hash": "9738454de0bcd887d74e7f8a5595ff92",
+    "semantic_hash": "9738454de0bcd887d74e7f8a5595ff92"
+  },
+  "understand-anything-plugin/vitest.config.ts": {
+    "mtime": 1779780819.824066,
+    "ast_hash": "4ba25b22c6c0b8a227db11d5a1d7b75b",
+    "semantic_hash": "4ba25b22c6c0b8a227db11d5a1d7b75b"
+  },
+  "vitest.config.ts": {
+    "mtime": 1779780819.824066,
+    "ast_hash": "03fa54b078ce01824f6a1818788b6640",
+    "semantic_hash": "03fa54b078ce01824f6a1818788b6640"
+  }
+}

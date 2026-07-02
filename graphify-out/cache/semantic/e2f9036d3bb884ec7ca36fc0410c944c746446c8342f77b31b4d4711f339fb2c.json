@@ -1,0 +1,1 @@
+{"nodes": [], "edges": [{"source": "file:understand_anything_plugin_hooks_auto_update_prompt_md", "target": "file:understand_anything_plugin_agents_file_analyzer_md", "relation": "calls", "confidence": "EXTRACTED", "confidence_score": 1.0, "source_file": "understand-anything-plugin/hooks/auto-update-prompt.md"}], "hyperedges": []}
