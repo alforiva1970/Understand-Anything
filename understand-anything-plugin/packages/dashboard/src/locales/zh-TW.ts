@@ -81,6 +81,7 @@ export const zhTW = {
   sidebar: {
     info: "資訊",
     files: "檔案",
+    graph: "圖谱 JSON",
   },
   mobile: {
     graph: "圖谱",

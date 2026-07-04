@@ -81,6 +81,7 @@ export const ja = {
   sidebar: {
     info: "情報",
     files: "ファイル",
+    graph: "グラフ JSON",
   },
   mobile: {
     graph: "グラフ",

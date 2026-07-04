@@ -81,6 +81,7 @@ export const en = {
   sidebar: {
     info: "Info",
     files: "Files",
+    graph: "Graph JSON",
   },
   mobile: {
     graph: "Graph",

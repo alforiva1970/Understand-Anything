@@ -81,6 +81,7 @@ export const zh = {
   sidebar: {
     info: "信息",
     files: "文件",
+    graph: "图谱 JSON",
   },
   mobile: {
     graph: "图谱",

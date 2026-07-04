@@ -37,7 +37,7 @@ const OnboardingOverlay = lazy(() => import("./components/OnboardingOverlay"));
 const DEMO_MODE = import.meta.env.VITE_DEMO_MODE === "true";
 const SESSION_TOKEN_KEY = "understand-anything-token";
 const ONBOARDING_DISMISSED_KEY = "ua-onboarding-dismissed-v1";
-type SidebarTab = "info" | "files";
+type SidebarTab = "info" | "files" | "graph";
 
 function shouldShowOnboarding(): boolean {
   if (typeof window === "undefined") return false;
@@ -58,8 +58,6 @@ function dataUrl(fileName: string, token: string | null): string {
     };
     const url = envMap[fileName];
     if (url) return url;
-    const base = import.meta.env.BASE_URL || "/";
-    return `${base.endsWith("/") ? base : `${base}/`}${fileName}`;
   }
   const path = `/${fileName}`;
   return token ? `${path}?token=${encodeURIComponent(token)}` : path;
@@ -406,7 +404,7 @@ function DashboardContent({
   const sidebarContent = (
     <div className="h-full flex flex-col min-h-0">
       <div className="flex items-center gap-1 p-2 border-b border-border-subtle bg-surface shrink-0">
-        {(["info", "files"] as const).map((tab) => (
+        {(["info", "files", "graph"] as const).map((tab) => (
           <button
             key={tab}
             type="button"
@@ -417,12 +415,18 @@ function DashboardContent({
                 : "text-text-muted hover:text-text-primary hover:bg-elevated"
             }`}
           >
-            {tab === "info" ? t.sidebar.info : t.sidebar.files}
+            {tab === "info" ? t.sidebar.info : tab === "files" ? t.sidebar.files : (t.sidebar as any).graph || "Graph"}
           </button>
         ))}
       </div>
       <div className="flex-1 min-h-0 overflow-auto">
-        {sidebarTab === "files" ? <FileExplorer /> : infoSidebarContent}
+        {sidebarTab === "files" ? (
+          <FileExplorer />
+        ) : sidebarTab === "graph" ? (
+          <GraphJsonPanel />
+        ) : (
+          infoSidebarContent
+        )}
       </div>
     </div>
   );
@@ -708,6 +712,48 @@ function DashboardContent({
           <OnboardingOverlay onDismiss={dismissOnboarding} />
         </Suspense>
       )}
+    </div>
+  );
+}
+
+function GraphJsonPanel() {
+  const graph = useDashboardStore((s) => s.graph);
+  const [copied, setCopied] = useState(false);
+
+  const jsonString = useMemo(() => {
+    return graph ? JSON.stringify(graph, null, 2) : "";
+  }, [graph]);
+
+  const handleCopy = useCallback(() => {
+    navigator.clipboard.writeText(jsonString);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  }, [jsonString]);
+
+  if (!graph) {
+    return (
+      <div className="p-4 text-xs text-text-muted text-center italic">
+        No graph loaded
+      </div>
+    );
+  }
+
+  return (
+    <div className="h-full flex flex-col min-h-0 bg-root">
+      <div className="p-2 border-b border-border-subtle bg-surface flex justify-between items-center shrink-0">
+        <span className="text-[10px] uppercase font-bold text-text-muted">Raw Knowledge Graph</span>
+        <button
+          onClick={handleCopy}
+          className="px-2 py-1 rounded text-[10px] font-semibold uppercase tracking-wider bg-accent/20 text-accent hover:bg-accent/30 transition-colors"
+        >
+          {copied ? "Copied!" : "Copy JSON"}
+        </button>
+      </div>
+      <div className="flex-1 overflow-auto p-3 min-h-0">
+        <pre className="text-[10px] font-mono text-text-secondary select-all whitespace-pre-wrap break-all leading-relaxed bg-elevated/40 p-3 rounded-lg border border-border-subtle">
+          {jsonString}
+        </pre>
+      </div>
     </div>
   );
 }

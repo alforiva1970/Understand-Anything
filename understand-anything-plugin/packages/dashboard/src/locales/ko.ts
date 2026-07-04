@@ -81,6 +81,7 @@ export const ko = {
   sidebar: {
     info: "정보",
     files: "파일",
+    graph: "그래프 JSON",
   },
   mobile: {
     graph: "그래프",

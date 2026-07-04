@@ -81,6 +81,7 @@ export const ru = {
   sidebar: {
     info: "Информация",
     files: "Файлы",
+    graph: "JSON Граф",
   },
   mobile: {
     graph: "Граф",
