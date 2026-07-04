@@ -59,7 +59,7 @@ function dataUrl(fileName: string, token: string | null): string {
     const url = envMap[fileName];
     if (url) return url;
   }
-  const path = `/${fileName}`;
+  const path = `./${fileName}`;
   return token ? `${path}?token=${encodeURIComponent(token)}` : path;
 }
 
